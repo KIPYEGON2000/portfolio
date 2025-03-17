@@ -1,0 +1,48 @@
+#count{
+    display: block;
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+#btn-id{
+    text-align: center;
+    
+}
+body{
+    background-color: aquamarine;
+}
+.btn{
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 10em;
+    transition:background-color 0.25s;
+    padding: 5px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(145, 192, 214);
+    color:rebeccapurple
+}
+.counter{
+   display: block;
+margin-left: 40%;
+    max-width: 250px;
+    border: 1px solid;
+    padding: 3px;
+    background-color: chocolate;
+    border-radius: 1em;
+}
+.d-check{
+    padding: 4px;
+    margin: auto;
+    
+    }
+
+form{
+        margin: auto;
+        background-color: aqua;
+        border: 3px;
+        max-width: 350px;
+        padding: 20px;
+        box-shadow: 5px 5px black;
+    }
